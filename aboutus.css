@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+.row-header{
+	background-color:#9575CD;
+	color:white;
+}
+.footercss{
+	background-color:#D1C4E9;
+}
+@media only screen and (max-width: 768px){
+	.paragraph{
+		display:none;
+	}
+	.foot{
+		text-align:left;
+	}
+}
+
+	
